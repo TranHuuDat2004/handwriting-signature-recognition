@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) model to identify t
 
 Developed in Google Colab using TensorFlow and Keras.
 
-![Example Prediction Output](images/example_prediction.png) <!-- Replace with your result screenshot -->
+![Example Prediction Output](img/output.PNG) <!-- Replace with your result screenshot -->
 
 ---
 
@@ -110,10 +110,10 @@ On validation set:
 - **Validation Loss:** 0.25
 
 **Training and Validation Accuracy:**  
-![Accuracy Plot](images/accuracy_plot.png)
+![Accuracy Plot](img/accuracy.PNG)
 
 **Training and Validation Loss:**  
-![Loss Plot](images/loss_plot.png)
+![Loss Plot](img/loss.PNG)
 
 **Example Test (Writer ID: 58):**
 
@@ -182,7 +182,6 @@ On validation set:
 
 **Tran Huu Dat**  
 GitHub: [@TranHuuDat2004](https://github.com/TranHuuDat2004)  
-[LinkedIn or Portfolio link - optional]
 
 ---
 
