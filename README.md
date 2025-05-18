@@ -4,7 +4,7 @@ This project implements a Convolutional Neural Network (CNN) model to identify t
 
 Developed in Google Colab using TensorFlow and Keras.
 
-![Example Prediction Output](img/output.PNG) <!-- Replace with your result screenshot -->
+
 
 ---
 
@@ -119,6 +119,7 @@ On validation set:
 
 - **Accuracy:** 95.83% (23/24 correct)
 
+![Example Prediction Output](img/output.PNG) <!-- Replace with your result screenshot -->
 ---
 
 ## How to Use
