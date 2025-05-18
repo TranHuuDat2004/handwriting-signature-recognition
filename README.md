@@ -137,10 +137,10 @@ On validation set:
 
 1. **Clone the repo (optional):**
 
-        ```bash
+
         git clone https://github.com/TranHuuDat2004/handwriting-signature-recognition.git
         cd handwriting-signature-recognition
-        ```
+
 
 2. **Upload Notebook to Colab**
 
@@ -148,9 +148,9 @@ On validation set:
         - Upload dataset to Google Drive
         - Update `BASE_DATA_DIR` in the notebook:
 
-            ```python
+
             BASE_DATA_DIR = '/content/drive/MyDrive/YOUR_PATH_TO/SIGNATURES'
-            ```
+
 
 ---
 
