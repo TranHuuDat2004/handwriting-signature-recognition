@@ -186,10 +186,4 @@ GitHub: [@TranHuuDat2004](https://github.com/TranHuuDat2004)
 
 ---
 
-## Acknowledgments
 
-- TensorFlow and Keras for deep learning frameworks
-- Google Colab for providing a free GPU environment
-- [Your dataset source or research papers if applicable]
-
----
